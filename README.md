@@ -18,41 +18,43 @@ The project "ml-sense" will consist *three parts*:
 
 ## ToDo's
 
-#### Recep
+#### Recep 🌙
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Learn github
+- [ ] Learn github
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Open a new repo in your side named as "**ml-sense-gastby**"
+- [ ] Open a new repo in your side named as "**ml-sense-gastby**"
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Add me and serdar a contributer
+- [ ] Add me and serdar a contributer
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Learn Gatsby and GraphQL
+- [ ] Learn Gatsby and GraphQL
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Develop 2-3 good looking web pages with Gatsby
+- [ ] Develop 2-3 good looking web pages with Gatsby
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Continue to work and inform me, please.
+- [ ] Continue to work and inform me, please.
 
-#### Serdar
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Go on with github
+#### Serdar 🌙
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Open a new repo in your side named as "**ml-sense-pyhthon**"
+- [ ] Go on with github
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Add me and serdar a contributer
+- [ ] Open a new repo in your side named as "**ml-sense-pyhthon**"
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Deploy a project to github
+- [ ] Add me and serdar a contributer
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Continue to work and inform me, please.
+- [ ] Deploy a project to github
 
-#### Talat
+- [ ] Continue to work and inform me, please.
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Go on with github
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Create a flutter project
+#### Talat 🌙
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Create netlify account for deploy
+- [ ] Go on with github
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Manage the whole project
+- [ ] Create a flutter project
+
+- [ ] Create netlify account for deploy
+
+- [ ] Manage the whole project
 
 
 
