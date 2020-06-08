@@ -2,13 +2,13 @@
 
 This project is a part of a big project named **ml-sense**.
 
-The project "ml-sense" will consists *three parts*:
+The project "ml-sense" will consist *three parts*:
 
 - **Back-end API:** Pyhthon-Flask-Machine Learning Tools
 
   The repo is in this adress:
 
-- **Front-end:** Gastby.js, GRAPHQL
+- **Front-end:** Gatsby.js, GRAPHQL
 
   The repo is in this adress:
 
@@ -26,9 +26,11 @@ The project "ml-sense" will consists *three parts*:
 
 [🌙](https://en.wikipedia.org/wiki/🌙) Add me and serdar a contributer
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Learnd gastby and GraphQL
+[🌙](https://en.wikipedia.org/wiki/🌙) Learn Gatsby and GraphQL
 
-[🌙](https://en.wikipedia.org/wiki/🌙) Continue to work
+[🌙](https://en.wikipedia.org/wiki/🌙) Develop 2-3 good looking web pages with Gatsby
+
+[🌙](https://en.wikipedia.org/wiki/🌙) Continue to work and inform me, please.
 
 #### Serdar
 
@@ -39,6 +41,8 @@ The project "ml-sense" will consists *three parts*:
 [🌙](https://en.wikipedia.org/wiki/🌙) Add me and serdar a contributer
 
 [🌙](https://en.wikipedia.org/wiki/🌙) Deploy a project to github
+
+[🌙](https://en.wikipedia.org/wiki/🌙) Continue to work and inform me, please.
 
 #### Talat
 
@@ -56,3 +60,4 @@ The project "ml-sense" will consists *three parts*:
 
 Continue to improve this Readme (Shared task)
 
+DO YOUR JOB, serdar, recep, all right?:))
